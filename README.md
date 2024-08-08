@@ -1,6 +1,6 @@
 # - 👋 Hi, I’m @Thesachindey
 # - 👀 I’m interested in Web-Development
-# - 🌱 I’m currently learning tailwindcss
+# - 🌱 I’m currently learning React
 
 
 <!---

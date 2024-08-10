@@ -14,7 +14,12 @@ I'm a self-taught web developer passionate about crafting clean, responsive, and
 ## ⏳ Coding Journey
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Days%20since%20I%20started%20coding-__YEARS__%20years,%20__MONTHS__%20months,%20__DAYS__%20days,%20__HOURS__%20hours,%20__MINUTES__%20minutes,%20__SECONDS__%20seconds-brightgreen?style=for-the-badge" alt="Coding Journey" />
+  ![Years](https://img.shields.io/badge/Years-__YEARS__-blue?style=flat-square)
+  ![Months](https://img.shields.io/badge/Months-__MONTHS__-green?style=flat-square)
+  ![Days](https://img.shields.io/badge/Days-__DAYS__-orange?style=flat-square)
+  ![Hours](https://img.shields.io/badge/Hours-__HOURS__-red?style=flat-square)
+  ![Minutes](https://img.shields.io/badge/Minutes-__MINUTES__-yellow?style=flat-square)
+  ![Seconds](https://img.shields.io/badge/Seconds-__SECONDS__-purple?style=flat-square)
 </p>
 
 I started my coding journey on **June 3, 2024**, and I've been learning and growing every day since then.

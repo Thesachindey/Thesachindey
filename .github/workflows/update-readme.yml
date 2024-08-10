@@ -12,18 +12,18 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Update README.md with Countdown
+      - name: Calculate Countdown and Update README.md
         run: |
           current_time=$(date -u +"%Y-%m-%d %H:%M:%S")
           start_time="2024-06-03 00:00:00"
-          diff=$(($((($(date -d "$current_time" +%s) - $(date -d "$start_time" +%s))))))
+          diff=$(( $(date -d "$current_time" +%s) - $(date -d "$start_time" +%s) ))
 
-          years=$(($diff / 31557600))
-          months=$((($diff % 31557600) / 2629800))
-          days=$((($diff % 2629800) / 86400))
-          hours=$((($diff % 86400) / 3600))
-          minutes=$((($diff % 3600) / 60))
-          seconds=$(($diff % 60))
+          years=$((diff / 31557600))
+          months=$(((diff % 31557600) / 2629800))
+          days=$(((diff % 2629800) / 86400))
+          hours=$(((diff % 86400) / 3600))
+          minutes=$(((diff % 3600) / 60))
+          seconds=$((diff % 60))
 
           sed -i "s/__YEARS__/$years/g" README.md
           sed -i "s/__MONTHS__/$months/g" README.md
@@ -38,4 +38,6 @@ jobs:
           git config --local user.name "GitHub Action"
           git add README.md
           git commit -m "Updated countdown in README"
+          git push
+
           git push

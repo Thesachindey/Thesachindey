@@ -5,16 +5,17 @@ I'm a self-taught web developer passionate about crafting clean, responsive, and
 ## 🚀 Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" src="https://developer.mozilla.org/en-US/docs/Web/HTML" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" src="https://developer.mozilla.org/en-US/docs/Web/CSS" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" src="https://tailwindcss.com/" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" src="https://developer.mozilla.org/en-US/docs/Web/JavaScript" alt="JavaScript" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" href="https://developer.mozilla.org/en-US/docs/Web/HTML" alt="HTML5" /> </a>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" href="https://developer.mozilla.org/en-US/docs/Web/CSS" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" href="https://tailwindcss.com/" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" alt="JavaScript" />
 </p>
 
 ## ⏳ Coding Journey
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Days%20since%20I%20started%20coding-__DAYS__-brightgreen?style=for-the-badge" hrf="https://thesachindey.github.io/CodeCountdown-tsc/" alt="Days Since I Started Coding" />
+  <img src="https://img.shields.io/badge/Days%20since%20I%20started%20coding-__DAYS__-brightgreen?style=for-the-badge" href="https://thesachindey.github.io/CodeCountdown-tsc/" alt="Days Since I Started Coding" />
 </p>
 
 I started my coding journey on **June 3, 2024**, and I've been learning and growing every day since then.

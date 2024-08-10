@@ -11,6 +11,14 @@ I'm a self-taught web developer passionate about crafting clean, responsive, and
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
+## ⏳ Coding Journey
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Days%20since%20I%20started%20coding-__DAYS__-brightgreen?style=for-the-badge" alt="Days Since I Started Coding" />
+</p>
+
+I started my coding journey on **June 3, 2024**, and I've been learning and growing every day since then.
+
 ## 🎯 Projects
 
 Check out some of the projects I've built using these technologies:
@@ -39,6 +47,7 @@ I'm currently diving deeper into JavaScript frameworks and exploring more advanc
 </p>
 
 Let's build something amazing together!
+
 
 
 

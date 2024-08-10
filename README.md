@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sachin Dey!
-<p style="color: blue">
+
 I'm a self-taught web developer passionate about crafting clean, responsive, and user-friendly web applications. My journey in web development has led me to master a range of technologies that help me bring ideas to life on the web.
-</p>
+
 ## 🚀 Technologies & Tools
 
 <p align="center">

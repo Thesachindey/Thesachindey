@@ -14,7 +14,7 @@ I'm a self-taught web developer passionate about crafting clean, responsive, and
 ## ⏳ Coding Journey
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Days%20since%20I%20started%20coding-__DAYS__-brightgreen?style=for-the-badge" alt="Days Since I Started Coding" />
+  <img src="https://img.shields.io/badge/Days%20since%20I%20started%20coding-__DAYS__-brightgreen?style=for-the-badge" src="https://thesachindey.github.io/CodeCountdown-tsc/" alt="Days Since I Started Coding" />
 </p>
 
 I started my coding journey on **June 3, 2024**, and I've been learning and growing every day since then.

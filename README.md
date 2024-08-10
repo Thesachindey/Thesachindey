@@ -21,8 +21,8 @@ I'm a self-taught web developer passionate about crafting clean, responsive, and
 
 ## ⏳ Coding Journey
 
-<p align="center">
-  <a href="https://thesachindey.github.io/CodeCountdown-tsc/"></a>
+<p align="center" href="https://thesachindey.github.io/CodeCountdown-tsc/">
+  
   <img src="https://img.shields.io/badge/Days%20since%20I%20started%20coding-__DAYS__-brightgreen?style=for-the-badge"  alt="Days Since I Started Coding" />
 </p>
 

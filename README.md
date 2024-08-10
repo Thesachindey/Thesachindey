@@ -7,15 +7,23 @@ I'm a self-taught web developer passionate about crafting clean, responsive, and
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" href="https://developer.mozilla.org/en-US/docs/Web/HTML" alt="HTML5" /> </a>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" href="https://developer.mozilla.org/en-US/docs/Web/CSS" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" href="https://tailwindcss.com/" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" alt="JavaScript" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"  alt="CSS3" />
+  </a>
+  
+  <a href="https://tailwindcss.com/">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"  alt="Tailwind CSS" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  alt="JavaScript" />
+  </a>
 </p>
 
 ## ⏳ Coding Journey
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Days%20since%20I%20started%20coding-__DAYS__-brightgreen?style=for-the-badge" href="https://thesachindey.github.io/CodeCountdown-tsc/" alt="Days Since I Started Coding" />
+  <a href="https://thesachindey.github.io/CodeCountdown-tsc/"></a>
+  <img src="https://img.shields.io/badge/Days%20since%20I%20started%20coding-__DAYS__-brightgreen?style=for-the-badge"  alt="Days Since I Started Coding" />
 </p>
 
 I started my coding journey on **June 3, 2024**, and I've been learning and growing every day since then.

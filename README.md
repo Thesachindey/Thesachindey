@@ -50,8 +50,8 @@ I'm currently diving deeper into JavaScript frameworks and exploring more advanc
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.instagram.com/thesachindey">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.x.com/itsSachinDey">
+    <img src="https://img.shields.io/badge/x-E4405F?style=for-the-badge&logo=x&logoColor=white" alt="x" />
   </a>
   <a href="https://github.com/thesachindey">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />

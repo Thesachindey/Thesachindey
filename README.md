@@ -50,7 +50,7 @@ I'm currently diving deeper into JavaScript frameworks and exploring more advanc
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.x.com/itsSachinDey">
+  <a href="https://www.x.com/thesachindey">
     <img src="https://img.shields.io/badge/x-E4405F?style=for-the-badge&logo=x&logoColor=white" alt="x" />
   </a>
   <a href="https://github.com/thesachindey">

@@ -51,7 +51,7 @@ I'm currently diving deeper into JavaScript frameworks and exploring more advanc
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/thesachindey">
+  <a href="https://www.linkedin.com/in/thesachindey">
     <img src="https://img.shields.io/badge/linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
 <p align="center">

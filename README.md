@@ -36,6 +36,7 @@ I started my coding journey on **June 3, 2024**, and I've been learning and grow
 Check out some of the projects I've built using these technologies:
 
 - **[Tic Tac Toe Game](https://github.com/thesachindey/tictactoe)**: A fun and interactive Tic Tac Toe game built with JavaScript, HTML5, and CSS3.
+- **[NETFLIX-UI](https://tscflix.netlify.app/)**:  Built with HTML5, and CSS3.
   
 ## 📈 GitHub Stats
 

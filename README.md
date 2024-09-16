@@ -65,7 +65,8 @@ I'm currently diving deeper into JavaScript frameworks and exploring more advanc
 </p>
 
 Let's build something amazing together!
- 
+ <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="thesachindey" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://bd.linkedin.com/in/thesachindey?trk=profile-badge">Sachin Dey</a></div>
+              
 
 
 

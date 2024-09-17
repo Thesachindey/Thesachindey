@@ -35,6 +35,8 @@ I started my coding journey on **June 3, 2024**, and I've been learning and grow
 
 Check out some of the projects I've built using these technologies:
 
+- **[CodeCountdown](https://cc-tsc.netlify.app/)**:  Built with JavaScript, HTML5, and CSS3.
+- **[Currency Converter](https://currencyexapp.netlify.app/)**:  Built with Fetch API, JavaScript, HTML5, and CSS3.
 - **[Tic Tac Toe Game](https://github.com/thesachindey/tictactoe)**: A fun and interactive Tic Tac Toe game built with JavaScript, HTML5, and CSS3.
 - **[NETFLIX-UI](https://tscflix.netlify.app/)**:  Built with HTML5, and CSS3.
 - **[Amazon Homepage](https://tsczon.netlify.app/)**:  Built with HTML5, and CSS3.

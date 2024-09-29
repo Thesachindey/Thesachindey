@@ -17,6 +17,9 @@ I'm a self-taught web developer passionate about crafting clean, responsive, and
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"  alt="JavaScript" />
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/ReactJS"> 
+  <img src="https://img.shields.io/badge/ReactJS-F7DF1E?style=for-the-badge&logo=reactjs&logoColor=black"  alt="ReactJS" />
+  </a>
 </p>
 
 ## ⏳ Coding Journey

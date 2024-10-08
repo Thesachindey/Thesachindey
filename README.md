@@ -1,4 +1,3 @@
-<iframe src="https://assets.pinterest.com/ext/embed.html?id=243194448622997682" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
 # 👋 Hi, I'm Sachin Dey!
 
 I'm a self-taught web developer passionate about crafting clean, responsive, and user-friendly web applications. My journey in web development has led me to master a range of technologies that help me bring ideas to life on the web.

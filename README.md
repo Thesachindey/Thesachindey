@@ -1,5 +1,5 @@
 [![MasterHead](https://i.pinimg.com/originals/2c/85/cc/2c85ccf9ea65e0fa1441a3ecaaae0c8a.gif)](https://x.com/Thesachindey)
-<h1 align="center">Hi 👋, I'm Sachin Dey</h1>
+<h1 align="center">Hi!👋 I'm Sachin Dey</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 

@@ -17,7 +17,8 @@
 
 - ⚡ Fun fact: **I love sharing tips and tricks on Twitter!**
 
-> #### Visitor Count:
+>  Visitor Count:
+
 ![Visitor Count](https://profile-counter.glitch.me/Thesachindey/count.svg)
 
 ## Account Status:
@@ -85,8 +86,13 @@ Check out some of the projects I've built using these technologies:
     alt="GitHub Streak Stats"
 />
 </p>
+
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
-<p align="left"> <a href="https://twitter.com/thesachindey" target="blank"><img src="https://img.shields.io/twitter/follow/thesachindey?logo=twitter&style=for-the-badge" alt="thesachindey" /></a> </p>
+
+ <a href="https://twitter.com/thesachindey" target="blank">
+ <img src="https://img.shields.io/twitter/follow/thesachindey?logo=twitter&style=for-the-badge" alt="thesachindey" />
+ </a>
+
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
 

@@ -29,7 +29,7 @@
 </details>
   
 
-# Skills
+## Skills
 
 <p align="left">
     <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50" height="50" alt="Redux" /></a>
@@ -65,7 +65,7 @@ Check out some of the projects I've built using these technologies:
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesachindey&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=FF1CF7&text_color=00F0FF" alt="thesachindey" />
  </p> -->
 
-# Socials
+## Socials
 <p align="left">
 <a href="https://twitter.com/thesachindey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thesachindey" height="40" width="50" /></a>
 <a href="https://linkedin.com/in/thesachindey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thesachindey" height="40" width="50" /></a>
@@ -76,7 +76,7 @@ Check out some of the projects I've built using these technologies:
 
 
 
-## :chart_with_upwards_trend: Current Stats
+## 🎯 Current Stats
 
 <br />
 <p align="center">

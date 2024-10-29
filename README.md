@@ -1,11 +1,11 @@
  <!--[![MasterHead]()](https://x.com/Thesachindey)-->
 [![MasterHead](https://raw.githubusercontent.com/Thesachindey/Thesachindey/refs/heads/main/assate/future%20technologies.gif)](https://x.com/Thesachindey)
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
-<h2 align="center">Hi!👋 I'm Sachin Dey</h2>
+<h2 align="center">Hi!👋 I'm Sachin</h2>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="300"  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8">
+<!-- <img align="right" alt="Coding" width="300"  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8"> -->
 
-
+#### Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/Thesachindey/count.svg)
 
 <p align="left"> <a href="https://twitter.com/thesachindey" target="blank"><img src="https://img.shields.io/twitter/follow/thesachindey?logo=twitter&style=for-the-badge" alt="thesachindey" /></a> </p>
@@ -47,7 +47,7 @@
  <a href="https://vscode.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="50" height="50"/> </a> 
   </p>
 
-## 🎯 Projects
+##  🎯 Projects
 
 Check out some of the projects I've built using these technologies:
 
@@ -56,15 +56,6 @@ Check out some of the projects I've built using these technologies:
 - **[Tic Tac Toe Game](https://tsc-toe.netlify.app/)**: A fun and interactive Tic Tac Toe game built with JavaScript, HTML5, and CSS3.
 - **[NETFLIX-UI](https://tscflix.netlify.app/)**:  Built with HTML5, and CSS3.
 - **[Amazon Homepage](https://tsczon.netlify.app/)**:  Built with HTML5, and CSS3.
-
-
-<h2 align="left">Connect With Me:</h2>
-<p align="left">
-<a href="https://twitter.com/thesachindey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thesachindey" height="40" width="50" /></a>
-<a href="https://linkedin.com/in/thesachindey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thesachindey" height="40" width="50" /></a>
-<a href="https://instagram.com/thesachincode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thesachincodes" height="40" width="50" /></a>
-<a href="https://www.leetcode.com/lwsachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lwsachin" height="40" width="50" /></a>
-</p>
 
 
 ## :chart_with_upwards_trend: Current Stats
@@ -77,11 +68,20 @@ Check out some of the projects I've built using these technologies:
     alt="GitHub Streak Stats"
 />
 </p>
-## :dart: Language Stats
+
+<!--##  :dart: Language Stats
 
 <br />
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesachindey&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=FF1CF7&text_color=00F0FF" alt="thesachindey" />
+ </p> -->
+
+ <h2 align="left">Socials:</h2>
+<p align="left">
+<a href="https://twitter.com/thesachindey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thesachindey" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/thesachindey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thesachindey" height="40" width="50" /></a>
+<a href="https://instagram.com/thesachincode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thesachincodes" height="40" width="50" /></a>
+<a href="https://www.leetcode.com/lwsachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lwsachin" height="40" width="50" /></a>
 </p>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />

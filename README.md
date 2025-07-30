@@ -19,7 +19,8 @@
 
 >  Visitor Count:
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=Thesachindey&label=Profile%20Views&color=12&icon=5&pretty=true)
+![Profile views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/thesachindey/github&style=for-the-badge)
+
 
 ## Account Status:
 <details>

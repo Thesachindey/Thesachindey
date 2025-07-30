@@ -19,14 +19,16 @@
 
 >  Visitor Count:
 
-![Visitor Count](https://profile-counter.glitch.me/Thesachindey/count.svg)
+![Visitor Count](https://visitcount.itsvg.in/api?id=Thesachindey&label=Profile%20Views&color=12&icon=5&pretty=true)
 
 ## Account Status:
 <details>
-  
-[![Thesachindey's GitHub | Stats](https://stats.quira.sh/Thesachindey/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Thesachindey)
+  <summary>📊 GitHub Stats</summary>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thesachindey&show_icons=true&theme=react&hide_border=true)
 
 </details>
+
   
 
 ## Skills

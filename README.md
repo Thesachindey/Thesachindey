@@ -19,7 +19,8 @@
 
 >  Visitor Count:
 
-![Profile views](https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/thesachindey/github&style=for-the-badge)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Thesachindey" alt="visitors"/>
+
 
 
 ## Account Status:

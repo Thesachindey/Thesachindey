@@ -1,5 +1,5 @@
 <!-- [![MasterHead]()](https://x.com/Thesachindey) -->
-[![MasterHead](https://raw.githubusercontent.com/Thesachindey/Thesachindey/refs/heads/main/assate/future%20technologies.gif)](https://x.com/Thesachindey) 
+[![MasterHead](https://github.com/Thesachindey/Thesachindey/blob/main/assate/gitHub-banner.png)](https://www.linkedin.com/in/thesachindey/) 
 <!-- <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
 # About Me

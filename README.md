@@ -25,13 +25,13 @@
 
 
 
-## Account Status:
+<!--## Account Status:
 <details>
   <summary>📊 GitHub Stats</summary>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thesachindey&show_icons=true&theme=react&hide_border=true)
 
-</details>
+</details>-->
 
   
 

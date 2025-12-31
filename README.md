@@ -3,19 +3,21 @@
 <!--<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />-->
 
 # About Me
-> **Hey!👋 I'm Sachin Dey, a passionate full-stack developer from Bangladesh.** 
+> **Hey!👋 I'm Sachin Dey, a passionate MERN Stack Developer | Full Stack Web Developer from Bangladesh.** 
 
 <!-- <img align="right" alt="Coding" width="300"  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8"> -->
 
-- 🌱 I’m currently learning **MERN Stack (MongoDB, Express.js, React, Node.js)**
-  
-- 💬 Ask me about **React JS, JavaScript, Tailwind CSS, HTML5, CSS3**
+- 🔭 I’m currently working on **scalable Full Stack applications using the MERN Stack.**
 
-- 🚀 Working on **Web development projects, building dynamic applications**
+- 📢 Open to work: **Looking for MERN Stack / Frontend Developer roles (Available for Remote & Relocation).**
 
-- 📚 Always improving by **1% every day** in web development and programming
+- 🌱 I’m currently exploring **TypeScript, Next.js, and Advanced State Management (Redux/Zustand).**
 
-- ⚡ Fun fact: **I love sharing tips and tricks on Twitter!**
+- 👯 I’m looking to collaborate on **Open Source projects and Hackathons.**
+
+- 💬 Ask me about **React Hooks, RESTful APIs, Database Design (MongoDB), and Tailwind CSS.**
+
+- ⚡ Fun fact: **I can center a div in 5 different ways, but I prefer Flexbox!**
 
 >  Visitor Count:
 

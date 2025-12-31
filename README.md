@@ -1,6 +1,6 @@
-<!--[![MasterHead]()](https://x.com/Thesachindey)-->
-<!--[![MasterHead](https://raw.githubusercontent.com/Thesachindey/Thesachindey/refs/heads/main/assate/future%20technologies.gif)](https://x.com/Thesachindey)-->
-<!--<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />-->
+<!-- [![MasterHead]()](https://x.com/Thesachindey) -->
+[![MasterHead](https://raw.githubusercontent.com/Thesachindey/Thesachindey/refs/heads/main/assate/future%20technologies.gif)](https://x.com/Thesachindey) 
+<!-- <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
 # About Me
 > **Hey!👋 I'm Sachin Dey, a passionate MERN Stack Developer | Full Stack Web Developer from Bangladesh.** 
@@ -52,7 +52,7 @@
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5" /></a>
    
 </p>
-<hr/>
+
 <table width="100%" align="center">
   <tr>
     <td width="100%">

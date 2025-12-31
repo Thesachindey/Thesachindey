@@ -64,12 +64,16 @@ Check out some of the projects I've built using these technologies:
 
 
 
-<!--##  :dart: Language Stats
+##  :dart: Language Stats
 
 <br />
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesachindey&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&title_color=FF1CF7&text_color=00F0FF" alt="thesachindey" />
- </p> -->
+  <img
+    width="60%"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Thesachindey&layout=compact&theme=react&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 
 ## Socials
 <p align="left">
@@ -88,7 +92,7 @@ Check out some of the projects I've built using these technologies:
 <p align="center">
 <img 
     width="60%" 
-    src="https://github-readme-streak-stats.herokuapp.com?user=thesachindey&theme=react&hide_border=true&background=0D1117&stroke=FFFFFF&fire=FF5733&sideLabels=00F0FF&currStreakNum=FFFFFF&ring=FF5733&currStreakLabel=FFFFFF&sideNums=00F0FF" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=Thesachindey&theme=react&hide_border=true&background=0D1117&stroke=FFFFFF&fire=FF5733&sideLabels=00F0FF&currStreakNum=FFFFFF&ring=FF5733&currStreakLabel=FFFFFF&sideNums=00F0FF" 
     alt="GitHub Streak Stats"
 />
 </p>

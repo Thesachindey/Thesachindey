@@ -60,7 +60,7 @@
         <a href="https://github.com/Thesachindey">
           <img
             align="center"
-            src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=Thesachindey&layout=compact&count_private=true&theme=nightowl&bg_color=0,000000,7125bd&title_color=c56a90&text_color=ffffff&hide_border=true"
+            src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=Thesachindey&layout=compact&count_private=true&theme=nightowl&bg_color=0,000000,7125bd&title_color=c56a90&text_color=ffffff&hide_border=false"
             alt="Top Languages"
           />
         </a>

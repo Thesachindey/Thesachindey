@@ -60,7 +60,7 @@
         <a href="https://github.com/Thesachindey">
           <img
             align="center"
-            src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=Thesachindey&layout=compact&count_private=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&hide_border=true"
+            src="https://github-readme-stats-xi-seven-23.vercel.app/api/top-langs/?username=Thesachindey&layout=compact&count_private=true&theme=nightowl&bg_color=0,000000,7125bd&title_color=c56a90&text_color=ffffff&hide_border=true"
             alt="Top Languages"
           />
         </a>
@@ -102,7 +102,7 @@ Check out some of the projects I've built using these technologies:
       <h3 align="center"><strong>ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ</strong></h3>
       <p align="center">
         <a href="https://github.com/Thesachindey">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Thesachindey&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Thesachindey&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,7125bd&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -110,7 +110,7 @@ Check out some of the projects I've built using these technologies:
       <h3 align="center"><strong>ꜱᴛʀᴇᴀᴋ ꜱᴛᴀᴛꜱ</strong></h3>
       <p align="center">
         <a href="https://github.com/Thesachindey">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Thesachindey&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Thesachindey&theme=nightowl&background=0,000000,7125bd&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>

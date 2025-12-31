@@ -1,39 +1,17 @@
-<!--[![MasterHead]()](https://x.com/Thesachindey)-->
-<!--[![MasterHead](https://raw.githubusercontent.com/Thesachindey/Thesachindey/refs/heads/main/assate/future%20technologies.gif)](https://x.com/Thesachindey)-->
-<!--<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />-->
-
 # About Me
-> **Hey!👋 I'm Sachin Dey, a passionate MERN Stack Developer | Full Stack Web Developer from Bangladesh.** 
-
-<!-- <img align="right" alt="Coding" width="300"  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8"> -->
+> **Hey!👋 I'm Sachin Dey, a passionate MERN Stack Developer | Full Stack Web Developer from Bangladesh.**
 
 - 🔭 I’m currently working on **scalable Full Stack applications using the MERN Stack.**
-
 - 📢 Open to work: **Looking for MERN Stack / Frontend Developer roles (Available for Remote & Relocation).**
-
 - 🌱 I’m currently exploring **TypeScript, Next.js, and Advanced State Management (Redux/Zustand).**
-
 - 👯 I’m looking to collaborate on **Open Source projects and Hackathons.**
-
 - 💬 Ask me about **React Hooks, RESTful APIs, Database Design (MongoDB), and Tailwind CSS.**
-
 - ⚡ Fun fact: **I can center a div in 5 different ways, but I prefer Flexbox!**
 
->  Visitor Count:
+> Visitor Count:
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Thesachindey" alt="visitors"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Thesachindey" alt="visitors" />
 
-
-
-<!--## Account Status:
-<details>
-  <summary>📊 GitHub Stats</summary>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thesachindey&show_icons=true&theme=react&hide_border=true)
-
-</details>-->
-
-  
 
 ## Skills
 
@@ -47,63 +25,44 @@
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50" alt="Git" /></a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50" alt="Figma" /></a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js" /></a>
-   
 </p>
-
 
 
 ##  🎯 Projects
 
 Check out some of the projects I've built using these technologies:
 
-- **[CodeCountdown](https://cc-tsc.netlify.app/)**:  Built with JavaScript, HTML5, and CSS3.
-- **[Currency Converter](https://currencyexapp.netlify.app/)**:  Built with Fetch API, JavaScript, HTML5, and CSS3.
+- **[CodeCountdown](https://cc-tsc.netlify.app/)**: Built with JavaScript, HTML5, and CSS3.
+- **[Currency Converter](https://currencyexapp.netlify.app/)**: Built with Fetch API, JavaScript, HTML5, and CSS3.
 - **[Tic Tac Toe Game](https://tsc-toe.netlify.app/)**: A fun and interactive Tic Tac Toe game built with JavaScript, HTML5, and CSS3.
-- **[NETFLIX-UI](https://tscflix.netlify.app/)**:  Built with HTML5, and CSS3.
-- **[Amazon Homepage](https://tsczon.netlify.app/)**:  Built with HTML5, and CSS3.
-
+- **[NETFLIX-UI](https://tscflix.netlify.app/)**: Built with HTML5 and CSS3.
+- **[Amazon Homepage](https://tsczon.netlify.app/)**: Built with HTML5 and CSS3.
 
 
 ##  :dart: Language Stats
 
-<br />
 <p align="center">
-  <img
-    width="60%"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=Thesachindey&layout=compact&theme=react&hide_border=true"
-    alt="Top Languages"
-  />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Thesachindey&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </p>
 
 ## Socials
 <p align="left">
-<!--<a href="https://x.com/thesachindey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thesachindey" height="40" width="50" /></a>-->
-<a href="https://linkedin.com/in/thesachindey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thesachindey" height="40" width="50" /></a>
-<!--<a href="https://instagram.com/thesachincode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thesachincodes" height="40" width="50" /></a>-->
-<a href="https://www.leetcode.com/lwsachin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lwsachin" height="40" width="50" /></a>
+<a href="https://linkedin.com/in/thesachindey" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="LinkedIn" height="30" /></a>
+<a href="https://www.leetcode.com/lwsachin" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" /></a>
 </p>
-
-
 
 
 ## 🎯 Current Stats
 
-<br />
 <p align="center">
-<img 
-    width="60%" 
-    src="https://github-readme-streak-stats.herokuapp.com?user=Thesachindey&theme=react&hide_border=true&background=0D1117&stroke=FFFFFF&fire=FF5733&sideLabels=00F0FF&currStreakNum=FFFFFF&ring=FF5733&currStreakLabel=FFFFFF&sideNums=00F0FF" 
-    alt="GitHub Streak Stats"
-/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Thesachindey&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
-
- <a href="https://twitter.com/thesachindey" target="blank">
- <img src="https://img.shields.io/twitter/follow/thesachindey?logo=twitter&style=for-the-badge" alt="thesachindey" />
- </a>
-
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Thesachindey&theme=react&hide_border=true" alt="GitHub Streak" />
+</p>
 
 
+---
 
+If you'd like any styling changes, or prefer different stats/themes (e.g., dark mode or different layout), tell me which theme or layout and I will update it.

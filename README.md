@@ -53,7 +53,7 @@
    
 </p>
 
-<table width="100%">
+<table width="100%" align="center">
   <tr>
     <td width="100%">
       <h3 align="center"><strong>ʟᴀɴɢᴜᴀɢᴇ ꜱᴛᴀᴛꜱ</strong></h3>

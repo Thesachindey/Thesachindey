@@ -52,7 +52,7 @@
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5" /></a>
    
 </p>
-
+<hr/>
 <table width="100%" align="center">
   <tr>
     <td width="100%">

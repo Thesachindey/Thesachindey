@@ -1,5 +1,5 @@
 <!-- [![MasterHead]()](https://x.com/Thesachindey) -->
-[![MasterHead](https://github.com/Thesachindey/Thesachindey/blob/main/assate/gitHub-banner.png)](https://www.linkedin.com/in/thesachindey/) 
+[![MasterHead](https://github.com/Thesachindey/Thesachindey/blob/main/assate/gitHub-profile-banner.png)](https://www.linkedin.com/in/thesachindey/) 
  <!-- <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" /> -->
 
 > **Hey!👋 I'm Sachin Dey, a passionate MERN Stack Developer | Frontend Developer from Bangladesh.** 

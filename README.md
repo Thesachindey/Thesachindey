@@ -120,8 +120,8 @@ Check out some of the projects I've built using these technologies:
 <hr/>
 <p align="center">
   📍 Bagerhat, Khulna, Bangladesh <br>
-  📧 thesachindey@gmail.com <br>
-  📞 +880 18716-57563
+  📧 thesachindey@gmail.com 
+  
 </p>
 <hr/>
 

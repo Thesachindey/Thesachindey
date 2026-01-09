@@ -35,7 +35,7 @@
 
   
 
-## Skills
+## 💻 Technologies that I know
 
 <p align="center">
  <a href="https://nextjs.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="nextjs" /></a>
@@ -70,7 +70,7 @@
 </table>
 
 
-##  🎯 Projects
+## 🧑‍🔬Recent project
 
 Check out some of the projects I've built using these technologies:
 
@@ -94,7 +94,7 @@ Check out some of the projects I've built using these technologies:
 
 
 
-## 🎯 Current Stats
+## 📈 Current Stats
 
 <table width="100%">
   <tr>

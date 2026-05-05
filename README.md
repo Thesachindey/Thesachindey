@@ -54,8 +54,7 @@ Check out some of the projects I've built:
 
 - **[ServeUp](https://serveup.netlify.app/)** — Full stack service platform
 - **[CivicAlert](https://civicalert-ts.netlify.app/)** — Public Infrastructure Issue Reporting System (TypeScript)
-- **[PropVista](#)** — AI-integrated Real Estate platform (Next.js 14 + Node.js + MongoDB + Groq AI)
-- **[BariGhar](#)** — Bangladesh-focused Real Estate frontend (Next.js 14 App Router + Role-Based Dashboards)
+- **[BariGhar](https://barighar-ai.vercel.app/)** — Bangladesh-focused Real Estate frontend (Next.js 14 App Router + Role-Based Dashboards + MongoDB + Groq AI)
 - **[Gamehub](https://gamehub-ts.web.app/)** — Game Library (TypeScript)
 - **[Currency Converter](https://currencyexapp.netlify.app/)** — Real-time currency exchange app
 

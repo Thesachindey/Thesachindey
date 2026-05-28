@@ -95,7 +95,7 @@ Check out some of the projects I've built:
 <hr/>
 
 <p align="center">
-  📍 Bangladesh <br>
+  📍Bangladesh <br>
   📧 thesachindey@gmail.com
 </p>
 
